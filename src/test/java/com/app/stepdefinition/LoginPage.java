@@ -7,8 +7,6 @@ import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.*;
 
 //edit changes
-
-
 //edit
 
 public class LoginPage {
